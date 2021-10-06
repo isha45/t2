@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+//Contributer : Isha Bansal
 class que{
     stack<int>s1,s2;
     public:
